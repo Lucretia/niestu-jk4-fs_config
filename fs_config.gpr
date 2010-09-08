@@ -1,0 +1,10 @@
+with "../common/common";
+
+project FS_Config is
+   for Source_Dirs use ("source");
+   for Object_Dir use "build";
+   for Exec_Dir use ".";
+
+   package Builder renames Common.Builder;
+   package Compiler renames Common.Compiler;
+end FS_Config;

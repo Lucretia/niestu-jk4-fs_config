@@ -1,0 +1,8 @@
+data/p9_config.gpr.i
+data/source/p9_config.adb.i
+data/source/p9_config.ads.i
+data/tests/get/get.gpr.i
+data/tests/get/source/get.adb.i
+data/plan9.gpr.i
+data/source/plan9.adb.i
+data/source/plan9.ads.i

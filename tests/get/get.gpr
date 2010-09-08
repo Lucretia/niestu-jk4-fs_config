@@ -1,0 +1,10 @@
+with "../../p9_config";
+
+project Get is
+   for Source_Dirs use ("source");
+   for Object_Dir use "build";
+   for Exec_Dir use ".";
+   for Main use ("get.adb");
+
+   package Compiler renames P9_Config.Compiler;
+end Get;

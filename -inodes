@@ -1,0 +1,14 @@
+.
+|-- -inodes
+|-- build
+|-- source
+|   |-- fs_config.adb
+|   `-- fs_config.ads
+`-- tests
+    `-- get
+        |-- build
+        |-- get.gpr
+        `-- source
+            `-- get.adb
+
+6 directories, 5 files

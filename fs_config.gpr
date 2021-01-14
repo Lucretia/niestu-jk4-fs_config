@@ -1,4 +1,4 @@
-with "../common/common";
+with "../niestu-jk4-common/common";
 
 project FS_Config is
    for Source_Dirs use ("source");
